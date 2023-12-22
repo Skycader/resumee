@@ -1,5 +1,6 @@
 {
   "name": "Daniel",
+  "avatarUrl": "https://github.com/Skycader/resumee-js/blob/main/assets/images/avatar.jpg?raw=true",
   "info": [
     "... and I'm an Angular Developer,",
     "passionate about making awesome software.",
@@ -86,7 +87,7 @@
         " • Uses Angular Material",
         " • Available on Firebase and GitHub"
       ],
-      "imageUrl": "https://skycader.github.io/resumee/assets/images/rzd-calls.png",
+      "imageUrl": "https://github.com/Skycader/resumee-js/blob/main/assets/images/rzd-calls.png?raw=true",
       "detailsUrl": "https://rzd-call-center.web.app/"
     },
     {

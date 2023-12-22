@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1703255422191,
+  "timestamp": 1703256650767,
   "index": "https://skycader.github.io/resumee/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "https://skycader.github.io/resumee/favicon.ico",
         "https://skycader.github.io/resumee/index.html",
-        "https://skycader.github.io/resumee/main-TXTRN5PI.js",
+        "https://skycader.github.io/resumee/main-3MEYG4XP.js",
         "https://skycader.github.io/resumee/manifest.webmanifest",
         "https://skycader.github.io/resumee/polyfills-LZBJRJJE.js",
         "https://skycader.github.io/resumee/scripts-YAENZGOK.js",
@@ -52,7 +52,7 @@
   ],
   "dataGroups": [],
   "hashTable": {
-    "https://skycader.github.io/resumee/assets/config/config.json": "539f9fe4cd759f6043ac287e17670aab114e7c17",
+    "https://skycader.github.io/resumee/assets/config/config.json": "d551647de332179e10d6312595f1ebad6643cb8d",
     "https://skycader.github.io/resumee/assets/fonts/googlesans.woff2": "07a32032c2657192eb66af68414b755175db69df",
     "https://skycader.github.io/resumee/assets/fonts/remixicon.ttf": "4140f6443c5ea8b9a8b45f1e0200766d6a52f530",
     "https://skycader.github.io/resumee/assets/icons/icon-128x128.png": "f912963bdc6d5a38d8f1dd0afbaab2ce8d657acb",
@@ -64,8 +64,8 @@
     "https://skycader.github.io/resumee/assets/icons/icon-72x72.png": "aa88a6096bd973be7f6d7a5489bfa6bc2463f8c4",
     "https://skycader.github.io/resumee/assets/icons/icon-96x96.png": "7fb8f59c30ce2ff12c700321a0b39e14b3dc8f95",
     "https://skycader.github.io/resumee/favicon.ico": "9c39f434fe1261f68c5e3eefdf734630d99c5670",
-    "https://skycader.github.io/resumee/index.html": "3bc3e073246e987fbce99c5507d8ff8d0fcb8005",
-    "https://skycader.github.io/resumee/main-TXTRN5PI.js": "6ba2d07bcc56d8cfddb0bcfdd6e5ced8e2193150",
+    "https://skycader.github.io/resumee/index.html": "4bb841938ec9391ba9a6ccd24f5244e6aa7ffafa",
+    "https://skycader.github.io/resumee/main-3MEYG4XP.js": "7f7c9f06b37b50590e9746cbe20429dd76f28e2e",
     "https://skycader.github.io/resumee/manifest.webmanifest": "ddae6788fda06251ae680c79d25a296c2bea9e74",
     "https://skycader.github.io/resumee/media/bootstrap-icons-BNVXHMH5.woff": "56c1142eef349c581d14dcd45a1c2eba9b9463c1",
     "https://skycader.github.io/resumee/media/bootstrap-icons-UDRIHJCM.woff2": "9d95f6fe35540b602284c9f2bfa67d2b464448f7",
