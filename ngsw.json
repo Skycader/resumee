@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1703256650767,
+  "timestamp": 1703256924264,
   "index": "https://skycader.github.io/resumee/index.html",
   "assetGroups": [
     {
@@ -13,11 +13,11 @@
       "urls": [
         "https://skycader.github.io/resumee/favicon.ico",
         "https://skycader.github.io/resumee/index.html",
-        "https://skycader.github.io/resumee/main-3MEYG4XP.js",
+        "https://skycader.github.io/resumee/main-GJJFPSFE.js",
         "https://skycader.github.io/resumee/manifest.webmanifest",
         "https://skycader.github.io/resumee/polyfills-LZBJRJJE.js",
         "https://skycader.github.io/resumee/scripts-YAENZGOK.js",
-        "https://skycader.github.io/resumee/styles-JFCTSDNI.css"
+        "https://skycader.github.io/resumee/styles-T3CGAOCF.css"
       ],
       "patterns": []
     },
@@ -64,8 +64,8 @@
     "https://skycader.github.io/resumee/assets/icons/icon-72x72.png": "aa88a6096bd973be7f6d7a5489bfa6bc2463f8c4",
     "https://skycader.github.io/resumee/assets/icons/icon-96x96.png": "7fb8f59c30ce2ff12c700321a0b39e14b3dc8f95",
     "https://skycader.github.io/resumee/favicon.ico": "9c39f434fe1261f68c5e3eefdf734630d99c5670",
-    "https://skycader.github.io/resumee/index.html": "4bb841938ec9391ba9a6ccd24f5244e6aa7ffafa",
-    "https://skycader.github.io/resumee/main-3MEYG4XP.js": "7f7c9f06b37b50590e9746cbe20429dd76f28e2e",
+    "https://skycader.github.io/resumee/index.html": "978548689dac48e004602f61f69be7bf569c206b",
+    "https://skycader.github.io/resumee/main-GJJFPSFE.js": "931186eadc8bb52346d966c1f84f6eb79f8f51b4",
     "https://skycader.github.io/resumee/manifest.webmanifest": "ddae6788fda06251ae680c79d25a296c2bea9e74",
     "https://skycader.github.io/resumee/media/bootstrap-icons-BNVXHMH5.woff": "56c1142eef349c581d14dcd45a1c2eba9b9463c1",
     "https://skycader.github.io/resumee/media/bootstrap-icons-UDRIHJCM.woff2": "9d95f6fe35540b602284c9f2bfa67d2b464448f7",
@@ -75,7 +75,7 @@
     "https://skycader.github.io/resumee/media/remixicon-PFPBAXU7.woff": "ee9f5f0c818e173af1e74da7128d8fb33daba4bc",
     "https://skycader.github.io/resumee/polyfills-LZBJRJJE.js": "fda1c82c5c620f1fa442f687b3df45a037f6fcc9",
     "https://skycader.github.io/resumee/scripts-YAENZGOK.js": "160a597e09722e974f1fbe93ab9f02accf2fee72",
-    "https://skycader.github.io/resumee/styles-JFCTSDNI.css": "862d8db3e486a2225c8829ed156f7effc0da7fe2"
+    "https://skycader.github.io/resumee/styles-T3CGAOCF.css": "9ff3e4113332f71212253b7d4057dd8b20c7c8f8"
   },
   "navigationUrls": [
     {
