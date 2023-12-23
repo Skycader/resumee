@@ -19,12 +19,17 @@
   "skills": {
     "core": [
       "Angular",
+      "NestJS",
       "JavaScript",
       "TypeScript",
       "CSS3",
       "SASS",
       "HTML5",
-      "Webpack"
+      "Webpack",
+      "WebSockets",
+      "socket.io",
+      "Angular Material",
+      "Leaflet"
     ],
     "languages": [
       "English - C1",
