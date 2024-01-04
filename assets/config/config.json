@@ -105,6 +105,16 @@
       ],
       "imageUrl": "https://i.imgur.com/rnvqXvr.png",
       "detailsUrl": "https://github.com/Skycader/radon-engine"
+    },
+    {
+      "title": "YesBankrot! app",
+      "description": [
+        " • An app to have a client database",
+        " • Easily manage your clients processes",
+        " • Upload documents and etc."
+      ],
+      "imageUrl": "https://i.imgur.com/ciPAlcz.png",
+      "detailsUrl": "https://yesbankrot.web.app/"
     }
   ],
   "numbers": {
