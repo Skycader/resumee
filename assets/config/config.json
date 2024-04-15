@@ -19,7 +19,9 @@
   "skills": {
     "core": [
       "Angular",
-      "NestJS",
+      "NgRx",
+      "Angular Material",
+      "Nest.js",
       "JavaScript",
       "TypeScript",
       "CSS3",
@@ -28,16 +30,15 @@
       "Webpack",
       "WebSockets",
       "socket.io",
-      "Angular Material",
       "Leaflet"
     ],
     "languages": [
       "English - C1",
       "Russian - C2",
       "French - B2",
-      "Japanese - A1"
+      "Japanese - A2"
     ],
-    "other": ["Bash", "Docker", "Nginx"]
+    "other": ["Bash", "Docker", "Nginx", "Linux", "SQL"]
   },
   "projects": [
     {
