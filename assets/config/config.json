@@ -19,7 +19,11 @@
   "skills": {
     "core": [
       "Angular",
-      "NgRx",
+      "RxJS",
+      "NGRX",
+      "Cypress",
+      "Component testing",
+      "Unit testing",
       "Angular Material",
       "Nest.js",
       "JavaScript",
@@ -27,8 +31,6 @@
       "CSS3",
       "SASS",
       "HTML5",
-      "Webpack",
-      "WebSockets",
       "socket.io",
       "Leaflet"
     ],
@@ -51,6 +53,17 @@
       ],
       "imageUrl": "https://i.imgur.com/7Em64NS.png",
       "detailsUrl": "https://vas-landshaftnik.ru/edit/drenazh-i-sistema-vodootvedeniya"
+    },
+    {
+      "title": "NGRX Todo App",
+      "description": [
+        "A pet project - simply add, check and remove your todos",
+        " • Material Design",
+        " • NGRX + IndexedDB",
+        " • E2E Testing engaged"
+      ],
+      "imageUrl": "https://i.imgur.com/IswXcCv.png",
+      "detailsUrl": "https://skycader.github.io/ngrx-todo-app/"
     },
     {
       "title": "FPK",
