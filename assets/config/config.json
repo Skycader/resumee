@@ -16,28 +16,32 @@
     "Hence - Angular was chosen among all the others as the most powerful, scalable and reliable framework.",
     "As an experienced developer, I had a few big products to work on, of which you may find interesting to read below."
   ],
+  "presentation": "https://www.youtube.com/embed/04HvztLv0pI?si=rIrViGqjurAE5Bxp",
   "skills": {
     "core": [
       "Angular",
-      "NestJS",
+      "RxJS",
+      "NGRX",
+      "Cypress",
+      "Component testing",
+      "Unit testing",
+      "Angular Material",
+      "Nest.js",
       "JavaScript",
       "TypeScript",
       "CSS3",
       "SASS",
       "HTML5",
-      "Webpack",
-      "WebSockets",
       "socket.io",
-      "Angular Material",
       "Leaflet"
     ],
     "languages": [
       "English - C1",
       "Russian - C2",
       "French - B2",
-      "Japanese - A1"
+      "Japanese - A2"
     ],
-    "other": ["Bash", "Docker", "Nginx"]
+    "other": ["Bash", "Docker", "Nginx", "Linux", "SQL"]
   },
   "projects": [
     {
